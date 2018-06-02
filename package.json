@@ -1,0 +1,10 @@
+{
+  "name": "WRO-ARC-2018_OrkaTITANS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Domonkos Lezsák <lezsakdomi1@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "semaphore": "^1.1.0"
+  }
+}

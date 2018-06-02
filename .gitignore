@@ -1,1 +1,6 @@
 .idea/workspace.xml
+node_modules/*
+!node_modules/i2c_devices
+!node_modules/tcpi2c
+!node_modules/tcpi2c_bridge
+yarn.lock
