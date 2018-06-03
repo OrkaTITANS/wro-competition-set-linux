@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Domonkos Lezsák <lezsakdomi1@gmail.com>",
-  "license": "GPL",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "semaphore": "^1.1.0"
   }
